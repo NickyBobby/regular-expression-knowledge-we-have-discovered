@@ -6,7 +6,7 @@
 * `[]`
   return the first match
 * `gsub`
-  FIND ME
+  looks for a match, either a character or string, and replaces it with a new character or string
 * `split`
   FIND ME
 * `scan`
