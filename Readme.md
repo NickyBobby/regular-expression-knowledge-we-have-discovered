@@ -74,7 +74,7 @@
 
 ## Open questions:
 
-* does case matter?
+* does case matter? YASSSSSS
 * can we get rid of the plus in scan?
 
 
